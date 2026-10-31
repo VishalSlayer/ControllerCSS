@@ -3,7 +3,7 @@ Overlay.css
 CSS
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-  background: url(https://i.postimg.cc/0j25W088/Galaxy.png);
+  background: url("https://i.postimg.cc/0j25W088/Galaxy.png");
   height: 630px;
   width: 750px;
   /*    margin-left: -375px;
